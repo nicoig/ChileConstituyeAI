@@ -1,8 +1,8 @@
-langchain
+langchain==0.0.316
 PyPDF2
 python-dotenv
 streamlit
-openai
+openai==0.28.1
 faiss-cpu
 altair
 tiktoken
