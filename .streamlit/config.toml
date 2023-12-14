@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4B8BBE"
+backgroundColor = "#262626" # Establece el color de fondo en oscuro
+textColor = "#FFFFFF" # Establece el color del texto en blanco
+secondaryBackgroundColor = "#2b313e" # Establece el color de fondo secundario en oscuro
+font = "sans serif"
